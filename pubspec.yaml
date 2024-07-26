@@ -1,0 +1,26 @@
+name: flutter_application_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.0.6
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/aace634a-dacc-411b-800d-aad6cdae9de2.jfif
+    - assets/logo.jfif
+    - assets/c90fa6d3-7381-4625-a9e5-fbcec8aca07f.jfif
+    - assets/home.jfif
